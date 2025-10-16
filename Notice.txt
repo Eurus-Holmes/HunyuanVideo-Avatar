@@ -2,7 +2,7 @@ Usage and Legal Notices:
 
 Tencent is pleased to support the open source community by making TencentHunyuanVideo-Avatar available.
 
-Copyright (C) 2025 THL A29 Limited, a Tencent company.  All rights reserved. The below software and/or models in this distribution may have been modified by THL A29 Limited ("Tencent Modifications"). All Tencent Modifications are Copyright (C) THL A29 Limited.
+Copyright (C) 2025 Tencent.  All rights reserved. The below software and/or models in this distribution may have been modified by Tencent ("Tencent Modifications"). All Tencent Modifications are Copyright (C) Tencent.
 
 TencentHunyuanVideo-Avatar is licensed under Tencent Hunyuan Community License Agreement, which can be found in this repository called "LICENSE", except for the third-party components listed below. TencentHunyuanVideo-Avatar does not impose any additional limitations beyond what is outlined in the respective licenses of these third-party components. Users must comply with all terms and conditions of original licenses of these third-party components and must ensure that the usage of the third party components adheres to all relevant laws and regulations. 
 
@@ -11,10 +11,10 @@ Other dependencies and licenses:
 
 
 Open Source Software Licensed under the TENCENT HUNYUAN COMMUNITY LICENSE AGREEMENT and Other Licenses of the Third-Party Components therein:
-The below software in this distribution may have been modified by THL A29 Limited ("Tencent Modifications"). All Tencent Modifications are Copyright (C) 2025 THL A29 Limited.
+The below software in this distribution may have been modified by Tencent ("Tencent Modifications"). All Tencent Modifications are Copyright (C) 2025 Tencent.
 --------------------------------------------------------------------
 1. HunyuanVideo
-Copyright (C) 2024 THL A29 Limited, a Tencent company.  All rights reserved.
+Copyright (C) 2024 Tencent, a Tencent company.  All rights reserved.
 
 
 Terms of the TENCENT HUNYUAN COMMUNITY LICENSE AGREEMENT:
@@ -32,7 +32,7 @@ e.	“Licensee,” “You” or “Your” shall mean a natural person or legal 
 f.	“Materials” shall mean, collectively, Tencent’s proprietary Tencent Hunyuan and Documentation (and any portion thereof) as made available by Tencent under this Agreement.
 g.	“Model Derivatives” shall mean all: (i) modifications to Tencent Hunyuan or any Model Derivative of Tencent Hunyuan; (ii) works based on Tencent Hunyuan or any Model Derivative of Tencent Hunyuan; or (iii) any other machine learning model which is created by transfer of patterns of the weights, parameters, operations, or Output of Tencent Hunyuan or any Model Derivative of Tencent Hunyuan, to that model in order to cause that model to perform similarly to Tencent Hunyuan or a Model Derivative of Tencent Hunyuan, including distillation methods, methods that use intermediate data representations, or methods based on the generation of synthetic data Outputs by Tencent Hunyuan or a Model Derivative of Tencent Hunyuan for training that model. For clarity, Outputs by themselves are not deemed Model Derivatives.
 h.	“Output” shall mean the information and/or content output of Tencent Hunyuan or a Model Derivative that results from operating or otherwise using Tencent Hunyuan or a Model Derivative, including via a Hosted Service.
-i.	“Tencent,” “We” or “Us” shall mean THL A29 Limited.
+i.	“Tencent,” “We” or “Us” shall mean Tencent.
 j.	“Tencent Hunyuan” shall mean the large language models, text/image/video/audio/3D generation models, and multimodal large language models and their software and algorithms, including trained model weights, parameters (including optimizer states), machine-learning model code, inference-enabling code, training-enabling code, fine-tuning enabling code and other elements of the foregoing made publicly available by Us, including, without limitation to, Tencent HunyuanVideo released at [https://github.com/Tencent/HunyuanVideo].
 k.	“Tencent Hunyuan Works” shall mean: (i) the Materials; (ii) Model Derivatives; and (iii) all derivative works thereof.
 l.	“Territory” shall mean the worldwide territory, excluding the territory of the European Union, United Kingdom and South Korea. 
@@ -102,7 +102,7 @@ https://github.com/Tencent-Hunyuan/HunyuanVideo/blob/ff2dd59277b3177785d8279d417
 
 
 Open Source Software Licensed under the Apache License Version 2.0:
-The below software in this distribution may have been modified by THL A29 Limited ("Tencent Modifications"). All Tencent Modifications are Copyright (C) 2025 THL A29 Limited.
+The below software in this distribution may have been modified by Tencent ("Tencent Modifications"). All Tencent Modifications are Copyright (C) 2025 Tencent.
 --------------------------------------------------------------------
 1. insightface
 Copyright 2018-2019 Open-MMLab. All rights reserved.
